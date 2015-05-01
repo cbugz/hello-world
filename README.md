@@ -1,3 +1,5 @@
+TEST
+
 # hello-world
 test repository
 
